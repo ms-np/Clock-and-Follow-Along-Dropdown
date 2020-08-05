@@ -44,6 +44,8 @@ Major frameworks that I built my project using (any add-ons/plugins are left for
 ### Tested By
 * Chai Assertion Library
 
+[TOP](#summary)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -87,7 +89,7 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ``` -->
 
-
+[TOP](#summary)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -102,6 +104,7 @@ To see the project website follow [Project Live Link](https://ms-np.github.io/Cl
 
 _For more information on the Project Scope and Backlog, please refer to the [Development Strategy](https://github.com/ms-np/Clock-and-Follow-Along-Dropdown/blob/master/development-strategy.md)_
 
+[TOP](#summary)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -110,6 +113,7 @@ See the list of open and closed [issues](https://github.com/ms-np/Clock-and-Foll
 
 See the list of [pull requests](https://github.com/ms-np/Clock-and-Follow-Along-Dropdown/pulls) for a list of proposed changes.
 
+[TOP](#summary)
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -126,7 +130,7 @@ Find out the visual [graph of the development process](https://github.com/ms-np/
 5. Open a Pull Request and link the Issue <!-- and assign a milestone -->
 6. Assign Reviewers to the Pull Request
 
-
+[TOP](#summary)
 
 <!-- LICENSE -->
 ## License
@@ -144,6 +148,7 @@ Miroslav - [github profile](https://github.com/miroslavveljanoski)
 Mamé- [github profile](https://github.com/mametur)  
 Murielle - [github profile](https://github.com/murvanessa)
 
+[TOP](#summary)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -156,8 +161,11 @@ Murielle - [github profile](https://github.com/murvanessa)
 * [HTML Validator](https://validator.w3.org/nu/)
 * [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+[TOP](#summary)
 
 <!-- FINALE -->
 ## That's It....
 
-....for now.
+....for now. 
+
+[TOP](#summary)

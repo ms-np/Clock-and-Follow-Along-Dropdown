@@ -2,11 +2,13 @@
 
 > `separation-of-concerns-project-week-2`
 
+## Clock-and-Follow-Along-Dropdown
+
 The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CSS + JS Clock) and Day 26(Stripe Follow Along Dropdown) by the team of enthusiastic developers.
 
 ## Wireframe
 
-[wireframe]()
+![wireframe](images/wireframe.jpg)
 
 ## 0. Set-Up
 
