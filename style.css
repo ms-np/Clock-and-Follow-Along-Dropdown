@@ -11,9 +11,9 @@ body {
     min-height: 100vh;
     background:
     linear-gradient(45deg, hsla(340, 100%, 55%, 1) 0%, hsla(340, 100%, 55%, 0) 70%),
-    linear-gradient(135deg, hsla(225, 95%, 50%, 1) 0%, hsla(225, 95%, 50%, 0) 80%),
-    linear-gradient(225deg, hsla(140, 90%, 50%, 1) 0%, hsla(140, 90%, 50%, 0) 80%),
-    linear-gradient(315deg, hsla(35, 95%, 55%, 1) 0%, hsla(35, 95%, 55%, 0) 70%);
+    linear-gradient(135deg, hsla(225, 95%, 50%, 1) 10%, hsla(225, 95%, 50%, 0) 80%),
+    linear-gradient(225deg, hsla(140, 90%, 50%, 1) 10%, hsla(140, 90%, 50%, 0) 80%),
+    linear-gradient(315deg, hsla(35, 95%, 55%, 1) 100%, hsla(35, 95%, 55%, 0) 70%);
 }
 
 nav {
@@ -25,7 +25,7 @@ perspective: 600px;
     color: yellow;
     text-decoration: none;
     font-size: 20px;
-    background: rgba(0, 0, 0, 2);
+    background: rgba(0, 0, 0, 0.2);
     padding: 10px 20px;
     display: inline-block;
     margin: 20px;
@@ -54,7 +54,7 @@ nav ul {
     top: -20px;
     border-radius: 2px;
     transition: all 0.5s;
-    transform: translate(100px);
+    transform: translateY(100px);
     will-change: transform;
     display: none;
 }
@@ -79,8 +79,16 @@ nav ul {
     height: 20px;
     display: block;
     background: white;
-    transform: translate(-50%) rotate(45deg);
+    transform: translateY(-50%) rotate(45deg);
 }
+
+.bio {
+    min-width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.7;
+  }
 
 .bio img {
     float: left;
@@ -94,7 +102,7 @@ nav ul {
 .expertise li {
     padding: 10px 0;
     display: block;
-    border-bottom: 1px solid rgba(0, 0, 0, 2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .dropdown a {
@@ -107,10 +115,11 @@ a.button {
     display: block;
     padding: 10px;
     color: white;
-    margin-bottom: 10px;    
+    margin-bottom: 10px;
+    min-width:160px;  
 }
 
 
 .button[href*=mame] {background: #019fe9;}
-.button[href*=eltayeb] {background: #385998;}
-.button[href*=nadia] {background: #ffc600;}
+.button[href*=Eltayeb] {background: #385998;}
+.button[href*=ms] {background: #ffc600;}
