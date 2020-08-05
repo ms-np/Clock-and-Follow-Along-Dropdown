@@ -31,11 +31,11 @@ __As a fellow developer I can see the prepared repository__
 
 > assigned to Nadia
 
-__As a site visitor, I want to see the .....__
+__As a site visitor, I want to see the website layout and elements__
 
 ### Repository
 
-- developed on a branch called `_____`
+- developed on a branch called `styling`
 
 ### JS
 - [ ] changes that has been made to the file within this user story
