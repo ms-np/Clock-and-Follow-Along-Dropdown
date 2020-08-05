@@ -53,26 +53,26 @@ __As a site visitor, I want to see the .....__
 
 ---
 
-## 2. ________
+## 2. Clock-html
 
-> assigned to ___________
+> assigned to Mamé
 
-__As a site visitor, I want to ......__
+__As a site visitor, I want to see website without style so that I can see starting point of the project__
 
 ### Repository
-
-- [ ] developed on a branch called `......`
+- [x] main user story feature branch is clock-html-style-main
+-[x] developed on a branch called `clock-html`
 
 ### JS
-- [ ] changes that has been made to the file within this user story
+- [x] Nothing has changed
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+- [x] add `div` tags give classes name each of them
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
+- [x] nothing has changed
 
 ---
 
