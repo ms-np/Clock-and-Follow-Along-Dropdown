@@ -76,28 +76,27 @@ __As a site visitor, I want to ......__
 
 ---
 
-## 3. ________
+## 3. Clock Js
+> assigned to Murielle
 
-> assigned to ___________
-
-__As a site visitor, I want to ......__
+__As a site visitor, I want to see the clock showing on the webpage__
 
 ### Repository
-
-- [ ] developed on a branch called `......`
-
-### JS
-- [ ] changes that has been made to the file within this user story
+-  main user story feature branch is `clock-html-style-main`
+-  developed on a branch called `clock-js`
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+-  add the link of the script 
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
+-  nothing to change
 
----
+### JS
+-  add handler and listener for the clock to work
+
+--- 
 
 ## 4. ________
 
