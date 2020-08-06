@@ -33,23 +33,26 @@ __As a fellow developer I can see the prepared repository__
 
 > assigned to Nadia
 
-__As a site visitor, I want to see the .....__
+__As a site visitor, I want to see the website layout and elements__
 
 ### Repository
 
-- developed on a branch called `_____`
+- developed on a branch called `styling`
 
 ### JS
-- [ ] changes that has been made to the file within this user story
+- [ ] no changes
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+- [ ] nav element holding nav tabs as unordered list
+- [ ] list items of the nav tab holding the nav links
+- [ ] div element as a dropdown with different structure for each nav tab
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
-
+- [ ] styling of the httml document and its body
+- [ ] styling of the nav bar, nav links, nav tabs
+- [ ] styling of the dropdown element, and inner content, links, and buttons
 
 ---
 
