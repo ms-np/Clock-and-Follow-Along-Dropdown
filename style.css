@@ -59,6 +59,14 @@ nav ul {
     display: none;
 }
 
+.trigger-enter .dropdown{
+    display: block;
+}
+
+.trigger-enter-active .dropdown{
+    opacity: 1;
+}
+
 .dropdownBackground {
     width: 100px;
     height: 100px;
@@ -71,6 +79,10 @@ nav ul {
     display: flex;
     justify-content: center;
     opacity: 0;
+}
+
+.dropdownBackground.open{
+    opacity: 1;
 }
 
 .arrow {
