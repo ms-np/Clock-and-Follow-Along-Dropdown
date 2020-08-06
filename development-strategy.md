@@ -33,23 +33,26 @@ __As a fellow developer I can see the prepared repository__
 
 > assigned to Nadia
 
-__As a site visitor, I want to see the .....__
+__As a site visitor, I want to see the website layout and elements__
 
 ### Repository
 
-- developed on a branch called `_____`
+- developed on a branch called `styling`
 
 ### JS
-- [ ] changes that has been made to the file within this user story
+- [ ] no changes
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+- [ ] nav element holding nav tabs as unordered list
+- [ ] list items of the nav tab holding the nav links
+- [ ] div element as a dropdown with different structure for each nav tab
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
-
+- [ ] styling of the httml document and its body
+- [ ] styling of the nav bar, nav links, nav tabs
+- [ ] styling of the dropdown element, and inner content, links, and buttons
 
 ---
 
@@ -60,8 +63,9 @@ __As a site visitor, I want to see the .....__
 __As a site visitor, I want to see website without style so that I can see starting point of the project__
 
 ### Repository
-- [x] main user story feature branch is clock-html-style-main
--[x] developed on a branch called `clock-html`
+
+- [x] main user story feature branch is `clock-html-style-main`  
+- [x] developed on a branch called `clock-html`
 
 ### JS
 - [x] Nothing has changed
@@ -76,26 +80,31 @@ __As a site visitor, I want to see website without style so that I can see start
 
 ---
 
-## 3. ________
+## 3.Clock-style
 
-> assigned to ___________
+> assigned to Mamé
 
-__As a site visitor, I want to ......__
+__As a site visitor, I want to see styled clock so that I can see hour,minute second hand on the clock face __
 
 ### Repository
 
-- [ ] developed on a branch called `......`
+- [x] main user story feature branch is `clock-html-style-main`  
+- [x] developed on a branch called `clock-style`
 
 ### JS
-- [ ] changes that has been made to the file within this user story
+
+- [ ] Nothing has changed
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+- [x] Add one more div to make a spot on the hands of clock 
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
+- Styled div tags
+- Used `transform: rotate(deg)` property to make (h-m-s)hand in the motion  
+- Used `transform-origin` property to change origin of hand to top-left   
+- Used `z-index` property to overlap each hand respectively   
 
 ---
 
