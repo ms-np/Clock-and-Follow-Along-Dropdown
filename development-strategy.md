@@ -116,7 +116,7 @@ __As a site visitor, I want to see the content of the dropdown menu when hoverin
 
 ### Repository
 
-- developed on a branch called `dropdown-enter` with two other branches `enterHandler` and `enterListener`
+- developed on a branch called `dropdown-enter` with two other branches `enter-handler` and `enter-listener`
 
 ### Handler
 - write enterHandler to react to the event `mouseenter`
