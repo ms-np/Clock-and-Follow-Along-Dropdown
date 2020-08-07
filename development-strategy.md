@@ -80,6 +80,8 @@ The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CS
 
 - [x] nothing has changed
 
+---
+
 ## 3.Clock-style
 
 > assigned to Mamé
@@ -129,7 +131,31 @@ The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CS
 
 - add handler and listener for the clock to work
 
-## 5. Dropdown Leave
+## 5. Dropdown Enter
+
+> assigned to Eltayeb
+
+**As a site visitor, I want to see the content of the dropdown menu when hovering the mouse**
+
+### Repository
+
+- developed on a branch called `dropdown-enter` with two other branches `enter-handler` and `enter-listener`
+
+### Handler
+
+- write enterHandler to react to the event `mouseenter`
+
+### Listener
+
+- Add a `mouseenter` event listener on the li's.
+
+### CSS
+
+- Change display property for classes trigger-enter and dropdown
+- Set the value of opacity property of classes trigger-enter-active and dropdown to 1
+- Set the value of opacity property of class one to 1
+
+## 6. Dropdown Leave
 
 > assigned to Miroslav
 
@@ -151,62 +177,3 @@ The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CS
 ### CSS
 
 - No styling has been added in this user story
-
-## 6. **\_\_\_\_**
-
-> assigned to \***\*\_\_\_\*\***
-
-**As a site visitor, I want to ......**
-
-### Repository
-
-- developed on a branch called `part 2`
-
-### JS
-
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
----
-
-## 7. Final overall refinements (finishing touches)
-
-> assigned to **\_**
-
-**As a perfectionist, I want everything perfect :)**
-
-### Repository
-
-- [ ] Developed on the branch `......` <!-- if it's required -->
-- [ ] Check for styling errors with a linter & prettify code
-- [ ] Validate source code on w3 to check for any last mistakes
-<!-- - [ ] any other points you want to add -->
-
-### README
-
-- [ ] changes that has been made to the file within this user story
-
-### Development strategy
-
-- [ ] changes that has been made to the file within this user story
-
-### JS
-
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
----
