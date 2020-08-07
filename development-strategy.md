@@ -127,51 +127,29 @@ __As a site visitor, I want to see the clock showing on the webpage__
 ### JS
 -  add handler and listener for the clock to work 
 
-## 5. ________
+## 5. Dropdown Enter
 
-> assigned to ___________
+> assigned to Eltayeb
 
-__As a site visitor, I want to ......__
-
-### Repository
-
-- [ ] developed on a branch called `......`
-
-### JS
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
----
-
-## 5.  ________
-
-> assigned to ___________
-
-__As a site visitor, I want to ......__
+__As a site visitor, I want to see the content of the dropdown menu when hovering the mouse__
 
 ### Repository
 
-- [ ] developed on a branch called `......`
+- developed on a branch called `dropdown-enter` with two other branches `enter-handler` and `enter-listener`
 
-### JS
-- [ ] changes that has been made to the file within this user story
+### Handler
+- write enterHandler to react to the event `mouseenter`
 
-### HTML
+### Listener
 
-- [ ] changes that has been made to the file within this user story
+- Add a `mouseenter` event listener on the li's.
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
+- Change display property for classes trigger-enter and dropdown
+- Set the value of opacity property of classes trigger-enter-active and dropdown to 1
+- Set the value of opacity property of class one to 1
 
----
 
 ## 6. ________
 
