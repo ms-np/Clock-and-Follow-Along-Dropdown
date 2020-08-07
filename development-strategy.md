@@ -93,7 +93,7 @@ __As a site visitor, I want to see styled clock so that I can see hour,minute se
 
 ### JS
 
-- [ ] Nothing has changed
+- [x] Nothing has changed
 
 ### HTML
 
@@ -106,9 +106,28 @@ __As a site visitor, I want to see styled clock so that I can see hour,minute se
 - Used `transform-origin` property to change origin of hand to top-left   
 - Used `z-index` property to overlap each hand respectively   
 
----
+## 4. Clock Js
 
-## 4. Dropdown Enter
+> assigned to Murielle
+
+__As a site visitor, I want to see the clock showing on the webpage__
+
+### Repository
+-  main user story feature branch is `clock-html-style-main`
+-  developed on a branch called `clock-js`
+
+### HTML
+
+-  add the link of the script 
+
+### CSS
+
+-  nothing to change
+
+### JS
+-  add handler and listener for the clock to work 
+
+## 5. Dropdown Enter
 
 > assigned to Eltayeb
 
@@ -131,30 +150,6 @@ __As a site visitor, I want to see the content of the dropdown menu when hoverin
 - Set the value of opacity property of classes trigger-enter-active and dropdown to 1
 - Set the value of opacity property of class one to 1
 
----
-
-## 5.  ________
-
-> assigned to ___________
-
-__As a site visitor, I want to ......__
-
-### Repository
-
-- [ ] developed on a branch called `......`
-
-### JS
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
----
 
 ## 6. ________
 
