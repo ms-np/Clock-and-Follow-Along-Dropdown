@@ -3,9 +3,9 @@ html {
     font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
 }
 
-*, *before, *after {
+/**, *before, *after {
     box-sizing: inherit;
-}
+}*/
 
 body {
     min-height: 100vh;
@@ -65,8 +65,8 @@ nav ul {
     position: absolute;
     background: #fff;
     border-radius: 4px;
-    box-shadow: 0 50px 100px rgba(50, 50, 93, .1), 0, 15px 35px rgba(50, 50, 93, .15), 0 5px 15px rgba(0, 0, 0, .1);
-    transition: all 0.3s, opacity 0.1s, translate 0.2s;
+  /*  box-shadow: 0 50px 100px rgba(50, 50, 93, .1), 0, 15px 35px rgba(50, 50, 93, .15), 0 5px 15px rgba(0, 0, 0, .1);
+    transition: all 0.3s, opacity 0.1s, translate 0.2s;*/
     transform-origin: 50% 0%;
     display: flex;
     justify-content: center;
