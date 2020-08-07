@@ -1,8 +1,8 @@
 'use strict';
-console.log('--- loading listener: _');
+console.log('--- loading listener: leave-listener');
 
-const triggers = document.querySelectorAll('.cool > li');
+const triggerAllLi = document.querySelectorAll('.cool > li');
 
-for (let li of triggers) {
+for (const li of triggerAllLi) {
   li.addEventListener('mouseleave', leaveHandler);
 }

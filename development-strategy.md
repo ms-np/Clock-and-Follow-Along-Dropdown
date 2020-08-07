@@ -14,9 +14,9 @@ The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CS
 
 > repository owner: Nadia
 
-__As a User I can see an empty site at the correct URL__
+**As a User I can see an empty site at the correct URL**
 
-__As a fellow developer I can see the prepared repository__
+**As a fellow developer I can see the prepared repository**
 
 ### Repo
 
@@ -28,18 +28,19 @@ __As a fellow developer I can see the prepared repository__
 6. Prepare a project board
 
 ---
- 
- ## 1. HTML&CSS structure
+
+## 1. HTML&CSS structure
 
 > assigned to Nadia
 
-__As a site visitor, I want to see the website layout and elements__
+**As a site visitor, I want to see the website layout and elements**
 
 ### Repository
 
 - developed on a branch called `styling`
 
 ### JS
+
 - [ ] no changes
 
 ### HTML
@@ -56,17 +57,41 @@ __As a site visitor, I want to see the website layout and elements__
 
 ---
 
-## 2. ________
+## 2. Dropdown Leave
 
-> assigned to ___________
+> assigned to Miroslav
 
-__As a site visitor, I want to ......__
+**As a site visitor, I want to close the content from the dropdown menu list when the mouse leave**
+
+### Repository
+
+- developed on a branch called `dropdown-leave`
+
+### JS
+
+- Adding event listeners to all _li_ elements with 'mouseleave' type of event
+- Writing _leaveHandler_ function to handle the logic when the mouse leave
+
+### HTML
+
+- Adding links to both scripts, listener and handler
+
+### CSS
+
+- No styling has been added in this user story
+
+## 3. **\_\_\_\_**
+
+> assigned to \***\*\_\_\_\*\***
+
+**As a site visitor, I want to ......**
 
 ### Repository
 
 - [ ] developed on a branch called `......`
 
 ### JS
+
 - [ ] changes that has been made to the file within this user story
 
 ### HTML
@@ -79,17 +104,18 @@ __As a site visitor, I want to ......__
 
 ---
 
-## 3. ________
+## 4. **\_\_\_\_**
 
-> assigned to ___________
+> assigned to \***\*\_\_\_\*\***
 
-__As a site visitor, I want to ......__
+**As a site visitor, I want to ......**
 
 ### Repository
 
 - [ ] developed on a branch called `......`
 
 ### JS
+
 - [ ] changes that has been made to the file within this user story
 
 ### HTML
@@ -102,17 +128,18 @@ __As a site visitor, I want to ......__
 
 ---
 
-## 4. ________
+## 5. **\_\_\_\_**
 
-> assigned to ___________
+> assigned to \***\*\_\_\_\*\***
 
-__As a site visitor, I want to ......__
+**As a site visitor, I want to ......**
 
 ### Repository
 
 - [ ] developed on a branch called `......`
 
 ### JS
+
 - [ ] changes that has been made to the file within this user story
 
 ### HTML
@@ -125,41 +152,18 @@ __As a site visitor, I want to ......__
 
 ---
 
-## 5.  ________
+## 6. **\_\_\_\_**
 
-> assigned to ___________
+> assigned to \***\*\_\_\_\*\***
 
-__As a site visitor, I want to ......__
-
-### Repository
-
-- [ ] developed on a branch called `......`
-
-### JS
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
----
-
-## 6. ________
-
-> assigned to ___________
-
-__As a site visitor, I want to ......__
+**As a site visitor, I want to ......**
 
 ### Repository
 
 - developed on a branch called `part 2`
 
-
 ### JS
+
 - [ ] changes that has been made to the file within this user story
 
 ### HTML
@@ -170,13 +174,13 @@ __As a site visitor, I want to ......__
 
 - [ ] changes that has been made to the file within this user story
 
+---
 
-------
 ## 7. Final overall refinements (finishing touches)
 
-> assigned to _____
+> assigned to **\_**
 
-__As a perfectionist, I want everything perfect :)__
+**As a perfectionist, I want everything perfect :)**
 
 ### Repository
 

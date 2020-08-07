@@ -1,13 +1,13 @@
 'use strict';
 console.log('--- loading handler: leaveHandler');
 
-const background = document.querySelector('.dropdownBackground');
+const dropdownBackground = document.querySelector('.dropdownBackground');
 
 const leaveHandler = (event) => {
-  //debugger;
+  debugger;
   const target = event.target;
   const currentTarget = event.currentTarget;
 
   currentTarget.classList.remove('trigger-enter', 'trigger-enter-active');
-  background.classList.remove('open');
+  dropdownBackground.classList.remove('open');
 };
