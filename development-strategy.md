@@ -14,9 +14,9 @@ The collaborative reconstruction of Wes Bos JavaScript30 tutorials from Day 2(CS
 
 > repository owner: Nadia
 
-__As a User I can see an empty site at the correct URL__
+**As a User I can see an empty site at the correct URL**
 
-__As a fellow developer I can see the prepared repository__
+**As a fellow developer I can see the prepared repository**
 
 ### Repo
 
@@ -28,18 +28,19 @@ __As a fellow developer I can see the prepared repository__
 6. Prepare a project board
 
 ---
- 
- ## 1. HTML&CSS structure
+
+## 1. HTML&CSS structure
 
 > assigned to Nadia
 
-__As a site visitor, I want to see the website layout and elements__
+**As a site visitor, I want to see the website layout and elements**
 
 ### Repository
 
 - developed on a branch called `styling`
 
 ### JS
+
 - [ ] no changes
 
 ### HTML
@@ -60,14 +61,15 @@ __As a site visitor, I want to see the website layout and elements__
 
 > assigned to Mamé
 
-__As a site visitor, I want to see website without style so that I can see starting point of the project__
+**As a site visitor, I want to see website without style so that I can see starting point of the project**
 
 ### Repository
 
-- [x] main user story feature branch is `clock-html-style-main`  
+- [x] main user story feature branch is `clock-html-style-main`
 - [x] developed on a branch called `clock-html`
 
 ### JS
+
 - [x] Nothing has changed
 
 ### HTML
@@ -84,11 +86,11 @@ __As a site visitor, I want to see website without style so that I can see start
 
 > assigned to Mamé
 
-__As a site visitor, I want to see styled clock so that I can see hour,minute second hand on the clock face __
+**As a site visitor, I want to see styled clock so that I can see hour,minute second hand on the clock face **
 
 ### Repository
 
-- [x] main user story feature branch is `clock-html-style-main`  
+- [x] main user story feature branch is `clock-html-style-main`
 - [x] developed on a branch called `clock-style`
 
 ### JS
@@ -97,47 +99,50 @@ __As a site visitor, I want to see styled clock so that I can see hour,minute se
 
 ### HTML
 
-- [x] Add one more div to make a spot on the hands of clock 
+- [x] Add one more div to make a spot on the hands of clock
 
 ### CSS
 
 - Styled div tags
-- Used `transform: rotate(deg)` property to make (h-m-s)hand in the motion  
-- Used `transform-origin` property to change origin of hand to top-left   
-- Used `z-index` property to overlap each hand respectively   
+- Used `transform: rotate(deg)` property to make (h-m-s)hand in the motion
+- Used `transform-origin` property to change origin of hand to top-left
+- Used `z-index` property to overlap each hand respectively
 
 ## 4. Clock Js
 
 > assigned to Murielle
 
-__As a site visitor, I want to see the clock showing on the webpage__
+**As a site visitor, I want to see the clock showing on the webpage**
 
 ### Repository
--  main user story feature branch is `clock-html-style-main`
--  developed on a branch called `clock-js`
+
+- main user story feature branch is `clock-html-style-main`
+- developed on a branch called `clock-js`
 
 ### HTML
 
--  add the link of the script 
+- add the link of the script
 
 ### CSS
 
--  nothing to change
+- nothing to change
 
 ### JS
--  add handler and listener for the clock to work 
+
+- add handler and listener for the clock to work
 
 ## 5. Dropdown Enter
 
 > assigned to Eltayeb
 
-__As a site visitor, I want to see the content of the dropdown menu when hovering the mouse__
+**As a site visitor, I want to see the content of the dropdown menu when hovering the mouse**
 
 ### Repository
 
 - developed on a branch called `dropdown-enter` with two other branches `enter-handler` and `enter-listener`
 
 ### Handler
+
 - write enterHandler to react to the event `mouseenter`
 
 ### Listener
@@ -150,62 +155,25 @@ __As a site visitor, I want to see the content of the dropdown menu when hoverin
 - Set the value of opacity property of classes trigger-enter-active and dropdown to 1
 - Set the value of opacity property of class one to 1
 
+## 6. Dropdown Leave
 
-## 6. ________
+> assigned to Miroslav
 
-> assigned to ___________
-
-__As a site visitor, I want to ......__
-
-### Repository
-
-- developed on a branch called `part 2`
-
-
-### JS
-- [ ] changes that has been made to the file within this user story
-
-### HTML
-
-- [ ] changes that has been made to the file within this user story
-
-### CSS
-
-- [ ] changes that has been made to the file within this user story
-
-
-------
-## 7. Final overall refinements (finishing touches)
-
-> assigned to _____
-
-__As a perfectionist, I want everything perfect :)__
+**As a site visitor, I want to close the content from the dropdown menu list when the mouse leave**
 
 ### Repository
 
-- [ ] Developed on the branch `......` <!-- if it's required -->
-- [ ] Check for styling errors with a linter & prettify code
-- [ ] Validate source code on w3 to check for any last mistakes
-<!-- - [ ] any other points you want to add -->
-
-### README
-
-- [ ] changes that has been made to the file within this user story
-
-### Development strategy
-
-- [ ] changes that has been made to the file within this user story
+- developed on a branch called `dropdown-leave`
 
 ### JS
 
-- [ ] changes that has been made to the file within this user story
+- Adding event listeners to all _li_ elements with 'mouseleave' type of event
+- Writing _leaveHandler_ function to handle the logic when the mouse leave
 
 ### HTML
 
-- [ ] changes that has been made to the file within this user story
+- Adding links to both scripts, listener and handler
 
 ### CSS
 
-- [ ] changes that has been made to the file within this user story
-
----
+- No styling has been added in this user story
